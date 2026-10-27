@@ -27,3 +27,4 @@ public/downloads/*.exe
 *.njsproj
 *.sln
 *.sw?
+.vercel
